@@ -1,3 +1,4 @@
+import React from 'react';
 import {createStackNavigator} from '@react-navigation/stack';
 import StackScreen1 from './StackScreen1';
 import StackScreen2 from './StackScreen2';

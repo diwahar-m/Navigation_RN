@@ -18,16 +18,4 @@ function App(): React.JSX.Element {
   );
 }
 
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     padding: 20
-//   },
-//   headerText: {
-//     fontSize: 20,
-//     marginTop: 20,
-//     fontWeight: 'bold'
-//   }
-// });
-
 export default App;

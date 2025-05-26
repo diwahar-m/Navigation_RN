@@ -1,3 +1,4 @@
+import React from 'react';
 import {StackNavigationProp} from '@react-navigation/stack';
 import {Button, StyleSheet, Text, View} from 'react-native';
 import {StackParamsList} from './StackNavigationDemo';
